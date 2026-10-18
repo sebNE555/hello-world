@@ -24,3 +24,10 @@ Exemple du nombre : 0x12345678 en little-endian
 
 
 
+Rangement d'un exe en mémoire :
+
+<img width="377" height="57" alt="adresses1" src="https://github.com/user-attachments/assets/31b59b12-5820-4c82-8fc6-22b4194e616a" />
+
+
+
+
