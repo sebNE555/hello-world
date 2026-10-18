@@ -17,6 +17,9 @@ big endian    :
                 position  1      2
                 2 octets: 10B7 - 0708
 
+
+Exemple du nombre : 0x12345678 en little-endian
+
 <img width="377" height="57" alt="adresses1" src="https://github.com/user-attachments/assets/33b7ef00-f663-44dc-990a-b25da5c0b4b9" />
 
 
